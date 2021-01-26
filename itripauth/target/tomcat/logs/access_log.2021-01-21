@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [21/Jan/2021:16:40:29 +0800] "GET /auth/api/dologin?name=itrip@163.com&password= HTTP/1.1" 500 30255 http-bio-8080-exec-2 4529
+0:0:0:0:0:0:0:1 - - [21/Jan/2021:16:40:30 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [21/Jan/2021:16:41:41 +0800] "GET /auth/api/dologin?name=itrip@163.com&password=123456 HTTP/1.1" 500 30255 http-bio-8080-exec-6 4096
+0:0:0:0:0:0:0:1 - - [21/Jan/2021:16:45:25 +0800] "GET /auth/api/dologin?name=itrip@163.com&password=123456 HTTP/1.1" 500 30255 http-bio-8080-exec-2 4335
+0:0:0:0:0:0:0:1 - - [21/Jan/2021:16:48:32 +0800] "GET /auth/api/dologin?name=itrip@163.com&password=123456 HTTP/1.1" 500 30255 http-bio-8080-exec-1 4403
+0:0:0:0:0:0:0:1 - - [21/Jan/2021:17:04:45 +0800] "GET /auth/api/dologin?name=itrip@163.com&password=123456 HTTP/1.1" 500 30255 http-bio-8080-exec-4 4864
+0:0:0:0:0:0:0:1 - - [21/Jan/2021:17:10:35 +0800] "GET /auth/api/dologin?name=itrip@163.com&password=123456 HTTP/1.1" 500 4554 http-bio-8080-exec-6 4782
+0:0:0:0:0:0:0:1 - - [21/Jan/2021:17:17:10 +0800] "GET /auth/api/dologin?name=itrip@163.com&password=123456 HTTP/1.1" 200 333 http-bio-8080-exec-2 895
+127.0.0.1 - - [21/Jan/2021:17:55:01 +0800] "POST /auth/api/dologin HTTP/1.0" 200 321 http-bio-8080-exec-4 788
+127.0.0.1 - - [21/Jan/2021:18:12:13 +0800] "GET /auth/api/logout HTTP/1.0" 404 949 http-bio-8080-exec-1 511
